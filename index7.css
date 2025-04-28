@@ -1,0 +1,12 @@
+#first p{
+    color:blue;
+    background-color: aqua;
+}
+p{
+    color:aqua;
+    background-color: red;
+}
+button{
+    color:black;
+    background-color: antiquewhite;
+}
