@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: olivedrab;
+    display: block;
+}
+
+.boxes{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: red;
+    display: inline;
+}
+
+.boxs{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: greenyellow;
+    display: inline-block;
+}

@@ -1,0 +1,17 @@
+.pad{
+    height: 50px;
+    width: 50px;
+    padding: 2px;
+    margin: 5px;
+}
+#first{
+    border: 2px solid;
+    box-sizing: content-box;
+    background-color:aqua
+}
+#second{
+    border: 2px dashed black;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-color: red;
+}

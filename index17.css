@@ -1,0 +1,19 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-size: 25px;  
+}
+
+#first{
+    height: 200px;
+    width: 300px;
+    font-size: 10px;
+    background-color: red;
+}
+
+#second{
+    height: 60%;
+    width: 40%;
+    font-size: 1.5rem;
+    background-color: blue;
+}

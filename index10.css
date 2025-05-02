@@ -1,0 +1,13 @@
+.box{
+    height: 80px;
+    width: 80px;
+}
+#box1{
+    background-color: red; text-align: left;
+}
+#box2{
+    background-color: aqua; text-align: center;
+}
+#box3{
+    background-color: green; text-align: right;
+}

@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px
+}
+
+#first{
+    height: 200px;
+    width: 300px;
+    font-size: 10px;
+    background-color: red;
+}
+
+#second{
+    height: 60%;
+    width: 40%;
+    font-size: 2em;
+    background-color: blue;
+}

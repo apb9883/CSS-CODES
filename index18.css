@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#first{
+    background-color: aqua;
+    width: 50vw;
+    height: 50vh;
+}
