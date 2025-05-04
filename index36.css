@@ -1,0 +1,16 @@
+.rotate{
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+    border-radius: 5px;
+    border: 5px solid black;
+    position: relative;
+    left: 100px;
+    top: 100px;
+
+    transition: all 2s ease-in;
+}
+
+.rotate:hover{
+    transform: rotate(45deg);
+}

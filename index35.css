@@ -1,0 +1,26 @@
+.buton{
+    height: 30px;
+    width: 100px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: steps(3);
+    transition-delay: 0s;
+
+    /*we can also write lie this
+    transition: all 1s ease-in-out 0s */
+}
+
+.buton:hover{
+    height: 35px;
+    width: 125px;
+    background-color: aqua;
+}
+
+.buton:active{
+    height: 40px;
+    width: 150px;
+    background-color: aquamarine;
+}
