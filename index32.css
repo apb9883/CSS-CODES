@@ -1,0 +1,38 @@
+#box{
+    padding: 5px;
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+}
+#box1{
+    padding: 5px;
+    height: 100px;
+    width: 100px;
+    background-color:aliceblue;
+}
+#box2{
+    padding: 5px;
+    height: 100px;
+    width: 100px;
+    background-color:blue;
+}
+
+@media  screen and (width: 300px) {
+    #box{
+        background-color: brown;
+    }
+}
+@media  screen and (min-width: 300px) {
+    #box1{
+        background-color: red;
+        height: 50px;
+        width: 50px;
+    }
+}
+@media  screen and (max-width: 300px) {
+    #box2{
+        background-color: black;
+        height: 150px;
+        width: 150px;
+    }
+}
